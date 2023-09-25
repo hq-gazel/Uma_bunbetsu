@@ -6,15 +6,15 @@
 	pip install gspread
 	pip install configparser
 
-2.Tesseract‚ðƒCƒ“ƒXƒg[ƒ‹‚·‚éiJapanese Script‚Í4Žíƒ`ƒFƒbƒN‚µ‚Ä‚¨‚­j
+2.Tesseractã‚’ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã™ã‚‹ï¼ˆJapanese Scriptã¯4ç¨®ãƒã‚§ãƒƒã‚¯ã—ã¦ãŠãï¼‰
 
-3. config.ini‚ÉÝ’è‚ð‹Lq
+3. config.iniã«è¨­å®šã‚’è¨˜è¿°
 
-4. './.working'‚Éì‹Æ‚µ‚½‚¢ƒtƒHƒ‹ƒ_‚ð“Ë‚Áž‚Þ
+4. './.working'ã«ä½œæ¥­ã—ãŸã„ãƒ•ã‚¡ã‚¤ãƒ«ã‚’å…¥ã‚Œã‚‹
 
-5. ŽÀs
+5. å®Ÿè¡Œ
 
 
-¦¦’ˆÓ¦¦
-1. config.ini‚Ì’†‚Í'‚Æ"‚à’Pƒ‚È•¶Žš—ñ‚Æ‚µ‚ÄŽæ“¾‚µ‚Ä‚µ‚Ü‚¤
-2. ˆ—‚µ‚½‚¢ƒpƒX‚É“ú–{Œê‚ªŠÜ‚Ü‚ê‚Ä‚¢‚é‚Æˆ—‚ª‚Å‚«‚È‚¢
+â€»â€»æ³¨æ„â€»â€»
+1. config.iniã®ä¸­ã¯'ã¨"ã‚‚å˜ç´”ãªæ–‡å­—åˆ—ã¨ã—ã¦å–å¾—ã—ã¦ã—ã¾ã†
+2. å‡¦ç†ã—ãŸã„ãƒ‘ã‚¹ã«æ—¥æœ¬èªžãŒå«ã¾ã‚Œã¦ã„ã‚‹ã¨å‡¦ç†ãŒã§ããªã„

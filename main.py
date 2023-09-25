@@ -251,7 +251,8 @@ if __name__ == '__main__':
     SCOPES = ['https://www.googleapis.com/auth/spreadsheets','https://www.googleapis.com/auth/drive']
     c = ServiceAccountCredentials.from_json_keyfile_name(py_DIR + '\\..\\.src\\prechun-GSheet.json', SCOPES)
     gs = gspread.authorize(c)
-    SPREADSHEET_KEY = '1kPY8V_MozF9mgfVrU_9BAMsq3rX-kQ5Pu_dPgVH08x0'
+    # TODO スプレッドシートアクセストークンキーを入れる
+    SPREADSHEET_KEY = ''
     worksheet = gs.open_by_key(SPREADSHEET_KEY).worksheet(sheetname)
 
 

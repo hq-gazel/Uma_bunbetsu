@@ -249,7 +249,8 @@ if __name__ == '__main__':
 
     #Google Sheets アクセス権限取得
     SCOPES = ['https://www.googleapis.com/auth/spreadsheets','https://www.googleapis.com/auth/drive']
-    c = ServiceAccountCredentials.from_json_keyfile_name(py_DIR + 'JSON', SCOPES)
+    # Google Sheets JSONを渡す
+    c = ServiceAccountCredentials.from_json_keyfile_name(py_DIR + '', SCOPES)
     gs = gspread.authorize(c)
     SPREADSHEET_KEY = ''
     worksheet = gs.open_by_key(SPREADSHEET_KEY).worksheet(sheetname)
